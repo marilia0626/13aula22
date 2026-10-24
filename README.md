@@ -3,3 +3,4 @@
 Texto modificado dentro da branch minha-modificacao.
 
 Primeira nova alteração
+Segunda nova alteração
