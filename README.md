@@ -1,3 +1,3 @@
 # exemplo-git-parte2
 
-A B C
+Texto modificado diretamente na branch principal main.
