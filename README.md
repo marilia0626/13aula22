@@ -2,7 +2,8 @@
 
 Texto modificado dentro da branch minha-modificacao.
 
-Primeira nova alteração
-Segunda nova alteração
+Primeira nova alteraï¿½ï¿½o
+Segunda nova alteraï¿½ï¿½o
 
-Terceira nova alteração
+Terceira nova alteraï¿½ï¿½o
+# 13aula22
